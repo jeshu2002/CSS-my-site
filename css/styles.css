@@ -1,0 +1,65 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family:'Merriweather', serif;
+}
+h1{
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+  font-size-adjust: auto;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+}
+hr{
+  border-style: dotted none none;
+  border-width:5px;
+  border-color: #748DA6;
+  height: 0px;
+  width: 5%;
+}
+
+.pic{
+  height: 5pc;
+  position: absolute;
+  left: 300px;
+  top: 50px;
+
+}
+.computer{
+  height: 15pc;
+}
+
+.batminton{
+  height: 15pc;
+}
+
+.topc{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+  padding-top: 100px;
+}
+
+.bottomc{
+  position: absolute;
+  left: 300px
+  bottom:300px;
+}
+
+.top-container{
+  background-color: #E4F5F9;
+  position: relative;
+  padding-top: 300px;
+}
+
+.middle-container{
+  background-color: #E4F5F9;
+
+}
+.bottom-container{
+  background-color: #E4F5F9 ;
+}
